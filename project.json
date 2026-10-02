@@ -1,0 +1,21 @@
+{
+  "id": 78,
+  "title": "Laundry Assistant Multi-Room Network",
+  "repository_slug": "laundry-assistant-multi-room-network",
+  "category": "Smart Home",
+  "platform": "Arduino Nano 33 IoT",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 28,
+  "connectivity": "BLE",
+  "components": [
+    "current sensor",
+    "PIR sensor",
+    "relay module"
+  ],
+  "scope": "Build a smart home prototype that uses current sensor, PIR sensor, relay module to coordinate several wireless nodes. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Multi-Room Network demonstration with repeatable test steps",
+  "mode": "telemetry",
+  "entrypoint": "firmware/laundry-assistant-multi-room-network/laundry-assistant-multi-room-network.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
